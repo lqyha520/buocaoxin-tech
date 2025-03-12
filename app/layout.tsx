@@ -1,7 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import Header from '@/components/Header'
-import Footer from '@/components/Footer'
+import Header from '../components/Header'
+import Footer from '../components/Footer'
 
 export const metadata: Metadata = {
   title: '布草芯科技 - 智能布草解决方案提供商',
